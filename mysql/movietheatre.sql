@@ -1,4 +1,5 @@
 CREATE DATABASE movietheatre;
+USE movietheatre;
 
 CREATE TABLE movies (
     id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
